@@ -1,2 +1,2 @@
-# parse_server_example
-This repo is a copy of the parse server example
+# parse_server_istallation
+This repo is a copy of the parse server installation to be installed in Digital Ocean droplet
